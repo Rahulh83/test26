@@ -27,4 +27,8 @@
   }
 }
 
-rg added
+rg addedresource "azurerm_resource_group" "java-rg" {
+name = "kaka-rg"
+location = "east us"
+
+}
