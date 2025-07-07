@@ -21,8 +21,8 @@
 #       "Get",
 #     ]
 
-#     storage_permissions = [
-#       "Get",
-#     ]
-#   }
-# }
+    storage_permissions = [
+      "Get",
+    ]
+  }
+}
